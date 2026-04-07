@@ -2,19 +2,20 @@
 
 Hi — I’m Zeeshan 👋 (zee.codes)
 
-I’m a self-taught **Web Designer & Frontend Developer** building fast, accessible, and conversion-first websites using **HTML • CSS • JavaScript**. I publish short project walkthroughs.
+I’m a self-taught **Web Designer & Frontend Developer** building fast, accessible, and conversion-first websites using **HTML • CSS • JavaScript React**. I publish short project walkthroughs.
 
 ## 🔭 What I build
-- Responsive landing pages & hero sections    
-- Performance-optimized front-ends & simple animations
+📇 Digital vCards — Professional, interactive business cards for modern networking.
+
+🖼️ Background Removers — Efficient, AI-powered tools for image processing.
 
 ## 🛠️ Tech
-HTML · CSS · JavaScript · Figma 
+HTML · CSS · JavaScript · Figma  · React.js
 
 ## 📌 Pinned projects
-- `hero-template` — reusable, responsive hero + CTA (HTML/CSS/JS)  
-- `mood-tracker` — small localStorage app demo (vanilla JS)  
-- `3d-demo-site` — experimental three.js frontend demo
+vcard-generator — Customizable, interactive digital business cards built with React and Tailwind CSS.
+
+ai-bg-remover — A fast, AI-powered tool for instant image background removal.
 
 ## 📫 Connect
 Portfolio & freebies → https://linktr.ee/zee.codes  
@@ -26,6 +27,7 @@ Email → mzkhan5544@gmail.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Porfolio website.
-- 🌱 I’m currently learning Javascript logic.
+🔭 I’m currently working on a Digital vCard Generator and an AI-powered Background Remover.
+
+🌱 I’m currently mastering Advanced JavaScript logic, React.js.
 -->
